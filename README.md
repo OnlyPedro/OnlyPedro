@@ -5,8 +5,8 @@
   
   <p> ➤  Information Systems Student. </p>
   <p> ➤  Systems Development Technician. </p>     
-  <p> ➤  19y. </p>    
-  <p> ➤  Nothing's impossible. </p>     
+  <p> ➤  20y. </p>    
+  <p> ➤  No pain, no gain. </p>     
   <p> ➤  Stay Flinston </p>    
   
 </div>
