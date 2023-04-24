@@ -7,7 +7,7 @@
   <p> ➤  Systems Development Technician. </p>     
   <p> ➤  20y. </p>    
   <p> ➤  No pain, no gain. </p>     
-  <p> ➤  Stay Flinston </p>    
+  <p> ➤  Stay Flinstons </p>    
   
 </div>
 
